@@ -1,5 +1,1 @@
-Hi👋, I’m @lignix a total beginner in everything. I’m interested in video games and their development.
-
-<!---
-Well I dont really know what I will do here but when I'll know it's already ready !
---->
+👋 Hello there! Welcome to my GitHub profile! I'm Charles, a second year BUT IT student with a love for coding and problem-solving. I thrive on turning ideas into reality through clean and efficient code. My journey in the world of development is marked by a curious mind, a commitment to learning, and a desire to contribute to meaningful projects. Explore my repositories to witness my coding adventures. Let's collaborate and code together! 🚀
