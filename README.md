@@ -14,7 +14,7 @@
 - 🌱 I’m currently diving deep into **C#** and exploring **game development** with Unity.  
 - 💻 I have hands-on experience with **web development** technologies like React, Tailwind, and Next.js.  
 - 🎮 Passionate about creating **platformer games** and learning about the intersection of tech and design.  
-- 🎓 Going to do an **internship starting February 2025** to contribute to innovative projects and enhance my skills.  
+- 🎓 I am actively seeking a work-study position starting September 2025 to join Efrei.
 - 📫 Feel free to reach me at **charlesbouvier832@hotmail.com**.  
 
 ---
