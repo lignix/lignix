@@ -5,6 +5,10 @@
   🌟 I thrive on solving problems through code and bringing creative ideas to life. Currently a third-year student in a <strong>BUT Informatique</strong>, I'm actively exploring opportunities to grow and make an impact in the tech world.
 </p>
 
+<p align="center">
+  🔗 Check out my personal portfolio: <a href="https://charlesbouvier.dev" target="_blank"><strong>charlesbouvier.dev</strong></a>
+</p>
+
 ---
 
 <p align="left"> 
